@@ -2,7 +2,7 @@ Demo for Server Side Software Developers South NL meetup 'Back-end programming: 
 
 Meetup event: https://www.meetup.com/Server-Side-Software-Developers-South-NL/events/264919153/
 
-# Pre-requisuites
+# Pre-requisites
 * Docker for Desktop with Kubernetes enabled
 * WSL (When running on Windows)
 
